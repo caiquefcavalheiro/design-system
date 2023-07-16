@@ -11,7 +11,7 @@ export default {
           as="label"
           css={{ display: 'flex', flexDirection: 'column', gap: '$2' }}
         >
-          <Text>Email address</Text>
+          <Text size="sm">Email address</Text>
           {Story()}
         </Box>
       )
