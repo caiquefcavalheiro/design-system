@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/docs",
+  "name": "@caique-design-ui/docs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -29,10 +29,10 @@
     "vite": "^4.4.4"
   },
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@caique-design-ui/eslint-config": "*",
+    "@caique-design-ui/react": "*",
+    "@caique-design-ui/tokens": "*",
+    "@caique-design-ui/ts-config": "*",
     "@storybook/addon-a11y": "^7.0.27",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",
