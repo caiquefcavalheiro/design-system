@@ -25,8 +25,7 @@ export const TooltipMessage = styled('div', {
 
   svg: {
     position: 'absolute',
-    bottom: 0,
-    top: '108%',
+    bottom: '-12px',
     left: '50%',
     transform: 'translate(-50%, -50%)',
   },
